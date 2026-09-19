@@ -18,9 +18,9 @@
 
 | 平台 | 介绍 | 商品与价格 | 独立仓库 |
 | --- | --- | --- | --- |
-| <img src="https://i.eoht.net/logo/acc_logo.webp" alt="账号星球：流媒体、AI 与海外账号" width="48"><br>**账号星球：流媒体、AI 与海外账号** | 比较共享、独享、代充等当前商品，并核对有效期与售后。 | [立即选购](https://eoht.net/serve/sharing/acc) | [Accountboy](https://github.com/gh-theo/Accountboy) |
-| <img src="https://i.eoht.net/logo/nf-video.webp" alt="银河录像局：流媒体、AI 与软件授权" width="48"><br>**银河录像局：流媒体、AI 与软件授权** | 查看当前共享、独享与代充商品，并在结算前核对优惠码。 | [立即选购](https://eoht.net/serve/sharing/nf-video) | [NF-Video](https://github.com/gh-theo/NF-Video) |
-| <img src="https://i.eoht.net/logo/kami_logo.webp" alt="卡密(Kami)小店" width="48"><br>**卡密(Kami)小店** | 查看 Apple ID、小火箭及 Telegram、X、谷歌账号，价格与库存以下单页为准。 | [立即选购](https://eoht.net/serve/sharing/kami) | [Kami](https://github.com/gh-theo/Kami) |
+| <img src="https://i.eoht.net/logo/acc_logo.webp" alt="账号星球：流媒体、AI 与海外账号" width="48"><br>**账号星球：流媒体、AI 与海外账号** | 比较共享、独享、代充等当前商品，并核对有效期与售后。 | [立即选购](https://eoht.net/serve/sharing/acc) | [Accountboy](https://github.com/jcsift/Accountboy) |
+| <img src="https://i.eoht.net/logo/nf-video.webp" alt="银河录像局：流媒体、AI 与软件授权" width="48"><br>**银河录像局：流媒体、AI 与软件授权** | 查看当前共享、独享与代充商品，并在结算前核对优惠码。 | [立即选购](https://eoht.net/serve/sharing/nf-video) | [NF-Video](https://github.com/jcsift/NF-Video) |
+| <img src="https://i.eoht.net/logo/kami_logo.webp" alt="卡密(Kami)小店" width="48"><br>**卡密(Kami)小店** | 查看 Apple ID、小火箭及 Telegram、X、谷歌账号，价格与库存以下单页为准。 | [立即选购](https://eoht.net/serve/sharing/kami) | [Kami](https://github.com/jcsift/Kami) |
 
 各渠道的分类商品与价格可继续查看[账号星球](https://eoht.net/serve/sharing/acc)、[银河录像局](https://eoht.net/serve/sharing/nf-video)和[卡密(Kami)小店](https://eoht.net/serve/sharing/kami)。
 
@@ -76,4 +76,4 @@ Netflix 套餐价格、同时播放数与 Extra Member 资格会随地区和档�
 
 ---
 
-[机场仓库汇总](https://github.com/gh-theo/airport-summary) · [Hero SMS 接码指南](https://github.com/gh-theo/Hero-SMS)
+[机场仓库汇总](https://github.com/jcsift/airport-summary) · [Hero SMS 接码指南](https://github.com/jcsift/Hero-SMS)
