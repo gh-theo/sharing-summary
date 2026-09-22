@@ -77,3 +77,5 @@ Netflix 套餐价格、同时播放数与 Extra Member 资格会随地区和档�
 ---
 
 [机场仓库汇总](https://github.com/jcsift/airport-summary) · [Hero SMS 接码指南](https://github.com/jcsift/Hero-SMS)
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
